@@ -1,0 +1,27 @@
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  color: white;
+  float: left;
+  line-height: 60px;
+  padding-left: 20px;
+}
+
+.page-title {
+  line-height: : 60px;
+}
+
+.nav-bar {
+  display: block;
+  height: 60px;
+  width: 100%;
+  background-color: black;
+}
+
+.links a {
+  display: block;
+  list-style-type: none;
+  float: right;
+}
